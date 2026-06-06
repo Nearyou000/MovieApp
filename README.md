@@ -49,7 +49,6 @@
 - .NET Framework 4.8
 - Newtonsoft.Json
 - HttpClient
-- SHA-256 (хеширование паролей)
 
 ## Разработчик
 Сенжапов Рахим
